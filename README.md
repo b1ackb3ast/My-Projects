@@ -1,5 +1,5 @@
 # My-Projects
-- Java/Python learner projects and problems.
+- Java/Python/ReactJS learner projects and problems.
 - LeetCode file contains problems solved from leetcode.
 - Java file contains content from a Data Structures and Algorithms course from Udemy.
 - movie-app is a project where I learned how to use ReactJS and a movie API to make a web app that you can use to query for movies.
