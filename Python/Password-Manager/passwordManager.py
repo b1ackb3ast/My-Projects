@@ -50,17 +50,13 @@ class PasswordManager:
 
 def main():
     password = {
-        "gmail1" : "kevinksaji10@gmail.com, njstgos3#",
-        "gmail2" : "kevinsaji95@gmail.com, njstgos3",
-        "yahoo" : "kevinsaji10@yahoo.com, njstgos3", 
-        "outlook" : "kevinsaji@outlook.sg, njstgos3#", 
-        "laptop" : "njstgos3#", 
-        "phone" : "njstgos3#", 
-        "epic games" : "kevinsaji@outlook.sg, Njstgos3#", 
-        "insta1" : "rea1r0ckstar, njstgos3#", 
-        "insta2" : "kevinsaji10, Ighockey123", 
-        "riot games" : "rea1r0ckstar, Njstgos3#", 
-        "discord" : "kevinksaji10@gmail.com, njstgos3#"
+        "gmail1" : "abcdefg@gmail.com, abcdefg#",
+        "gmail2" : "abcdefg@gmail.com, abcdefg",
+        "yahoo" : "abcdefg@yahoo.com, abcdefg3", 
+        "outlook" : "abcdefg@outlook.sg, abcdefgabcdef#", 
+        "laptop" : "abcdefg", 
+        "phone" : "abcdefg#",  
+        "discord" : "abcdef0@gmail.com, abcdef3#"
         
 
     }
